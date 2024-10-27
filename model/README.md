@@ -1,9 +1,7 @@
 # backend file and text analyze model
---------
 
 ## backend file
 * app.py
---------
 
 ## text analyze model
 ### 텍스트 요약: summarize/*
