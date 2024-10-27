@@ -1,4 +1,4 @@
-# backend file and text analyze model
+# Back-end file and Text Analyze Model
 
 ## backend file
 * app.py
