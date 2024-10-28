@@ -25,7 +25,5 @@ model/category/label_encoder.pth
 model/category/results
 
 model/summarize/fine_tuned_kobart
-model/summarize/logs
-model/summarize/results
 
 model/node_modules
