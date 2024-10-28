@@ -21,9 +21,8 @@ frontend/yarn-debug.log*
 frontend/yarn-error.log*
 
 model/category/category_classification_kobert
-model/category/label_encoder.pth
-model/category/results
 
 model/summarize/fine_tuned_kobart
 
 model/node_modules
+model/category/results
