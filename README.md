@@ -1,9 +1,7 @@
 # nlp-kit
 
-## model
+## model: 백엔드와 택스트 분석 모델
 - http://3.39.255.60:5000/analyze
-백엔드와 택스트 분석 모델
 
-## frontend
+## frontend: 프론트엔드 파일
 - 
-프론트엔드 파일
